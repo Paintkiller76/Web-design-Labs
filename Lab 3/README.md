@@ -1,4 +1,4 @@
-# lab3
+# Хоменко А.С. КВ-72, lab3
 
 ## Project setup
 ```
